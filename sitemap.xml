@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+        <url>
+            <loc>https://rabotay-doma.info/index.php</loc>
+            <priority>1.0</priority>
+        </url>
+	       <url>
+            <loc>https://rabotay-doma.info/site.php</loc>
+            <priority>1.0</priority>
+        </url>
+			<url>
+            <loc>https://rabotay-doma.info/frilance.php</loc>
+            <priority>1.0</priority>
+        </url>
+		      	<url>
+            <loc>https://rabotay-doma.info/forex.php</loc>
+            <priority>1.0</priority>
+        </url>
+        	<url>
+            <loc>https://rabotay-doma.info/novichok.php</loc>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://rabotay-doma.info/toloka.php</loc>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://rabotay-doma.info/mayning.php</loc>
+            <priority>1.0</priority>
+        </url>
+              </urlset>

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /index.php
+Allow: /site.php
+Allow: /frilance.php
+Allow: /forex.php
+Allow: /novichok.php
+Allow: /toloka.php
+Allow: /mayning.php
+Host: https://rabotay-doma.info
+Sitemap: https://rabotay-doma.info/sitemap.xml
